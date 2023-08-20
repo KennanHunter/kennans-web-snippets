@@ -1,0 +1,7 @@
+{
+  "Kennan's Anonymous React Element": {
+    "prefix": ["kare", "anonymous-react-element"],
+    "body": ["export const $1: FC = () => {", "\treturn <>$2</>", "}"],
+    "description": "Export a react element from an anonymous function"
+  }
+}

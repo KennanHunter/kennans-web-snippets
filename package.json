@@ -1,0 +1,25 @@
+{
+  "name": "kennans-web-snippets",
+  "displayName": "Kennan's Web Snippets",
+  "description": "Kennan Hunter's snippets for various web technologies",
+  "version": "0.0.1",
+  "publisher": "kennanhunter",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./js-snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./ts-snippets.json"
+      }
+    ]
+  }
+}
