@@ -2,11 +2,14 @@
   "name": "kennans-web-snippets",
   "displayName": "Kennan's Web Snippets",
   "description": "Kennan Hunter's snippets for various web technologies",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "kennanhunter",
   "license": "UNLICENSED",
   "engines": {
     "vscode": "^1.28.0"
+  },
+  "sponsor": {
+    "url": "https://ko-fi.com/kennan"
   },
   "categories": [
     "Snippets"
