@@ -2,7 +2,9 @@
 
 ## Usage
 
-[open-vsx extension](https://open-vsx.org/extension/kennanhunter/kennans-web-snippets)
+[Open-VSX Extension](https://open-vsx.org/extension/kennanhunter/kennans-web-snippets)
+
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=KennanHunter.kennans-web-snippets)
 
 ## Snippets
 
