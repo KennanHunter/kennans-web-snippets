@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.png" alt="Kennan's Web Snippets logo" width="300">
+</p>
+
 # Kennan's Web Snippets
 
 ## Usage
