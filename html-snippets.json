@@ -1,0 +1,23 @@
+{
+  "Kennan's HTML Starter": {
+    "prefix": ["khtml", "html-starter", "html-template"],
+    "body": [
+      "<!DOCTYPE html>",
+      "<html lang=\"en\">",
+      "\t<head>",
+      "\t\t<meta charset=\"UTF-8\" />",
+      "\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
+      "\t\t<meta name=\"description\" content=\"$1\">",
+      "\t\t<meta name=\"keywords\" content=\"$2\">",
+      "\t\t<meta name=\"author\" content=\"${3:}\">",
+      "\t\t<title>${4:$WORKSPACE_NAME}</title>",
+      "\t</head>",
+      "\t<body>",
+      "\t\t$2",
+      "\t</body>",
+      "</html>",
+      ""
+    ],
+    "description": "Starter HTML template"
+  }
+}
