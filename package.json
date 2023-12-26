@@ -2,7 +2,7 @@
   "name": "kennans-web-snippets",
   "displayName": "Kennan's Web Snippets",
   "description": "Kennan Hunter's snippets for various web technologies",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publisher": "kennanhunter",
   "license": "UNLICENSED",
   "icon": "logo.png",
@@ -27,6 +27,14 @@
       },
       {
         "language": "typescript",
+        "path": "./ts-snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./js-snippets.json"
+      },
+      {
+        "language": "typescriptreact",
         "path": "./ts-snippets.json"
       },
       {
