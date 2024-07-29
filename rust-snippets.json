@@ -1,0 +1,14 @@
+{
+  "Kennan's Simple Rust Test Module": {
+    "prefix": ["ktestmod", "test-module"],
+    "body": [
+      "#[cfg(test)]",
+      "mod tests {",
+      "\t#[test]",
+      "\t\tfn test_$1() {",
+      "\tassert_eq!(1 + 2, 3);",
+      "}"
+    ],
+    "description": "Create a testing module"
+  }
+}

@@ -40,6 +40,10 @@
       {
         "language": "html",
         "path": "./html-snippets.json"
+      },
+      {
+        "language": "rust",
+        "path": "./rust-snippets.json"
       }
     ]
   }
